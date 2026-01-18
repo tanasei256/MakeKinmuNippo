@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeKinmuNippo", "MakeKinmuNippo.csproj", "{BCF40CEE-1444-99B8-3185-5CAB6400456F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF40CEE-1444-99B8-3185-5CAB6400456F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF40CEE-1444-99B8-3185-5CAB6400456F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF40CEE-1444-99B8-3185-5CAB6400456F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF40CEE-1444-99B8-3185-5CAB6400456F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE5041A6-18AA-45E5-8B00-E9CAEF288120}
+	EndGlobalSection
+EndGlobal
