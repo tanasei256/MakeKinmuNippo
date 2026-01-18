@@ -1,0 +1,3 @@
+1. gyogyou/tyouseki2/data3.csvをここにコピー
+2. g.bat 実行
+3. d.csv ができるのでgoogleスプレッドシートにインポート
