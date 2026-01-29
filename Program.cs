@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.OutputEncoding = System.Text.Encoding.UTF8;
+
 const string path = "data3.csv";
 if (!File.Exists(path))
 {
